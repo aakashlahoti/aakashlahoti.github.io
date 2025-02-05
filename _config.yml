@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aakash Lahoti"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Aakash Lahoti"
-description              : &description "Ph.D. Student @ Carnegie Mellon University"
+name                     : &name ""
+description              : &description ""
 url                      : "https://aakashlahoti.github.io" 
 baseurl                  : "" 
 repository               : "aakashlahoti/aakashlahoti.github.io"
@@ -23,9 +23,7 @@ timezone                 : "America/New_York"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "aakash.png"
-  location         : "Pittsburgh, PA"
   email            : "alahoti@andrew.cmu.edu"
-  employer         : "Carnegie Mellon University"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=mr9ILgUAAAAJ"
